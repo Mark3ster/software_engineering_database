@@ -1,0 +1,2 @@
+1|tema|oscuro
+1|notificaciones|activadas
